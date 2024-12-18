@@ -9,6 +9,7 @@ function HeapSort() {
   const codeSnippets = {
     python: `
 def heapify(arr, n, i):
+  # Make the Array a Heap
     largest = i
     left = 2 * i + 1
     right = 2 * i + 2
@@ -19,7 +20,7 @@ def heapify(arr, n, i):
     if right < n and arr[largest] < arr[right]:
         largest = right
 
-    if largest != i:
+    if largest != i: # When largest is changed  --> Swap
         arr[i], arr[largest] = arr[largest], arr[i]
         heapify(arr, n, largest)
 
