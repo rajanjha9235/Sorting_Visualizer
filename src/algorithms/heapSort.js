@@ -41,7 +41,7 @@ const heapSort = async (array , setArray , speed) => {
         await heapify(size , i);
     }
 
-    // 
+    //  
     while (size > 0){
         
         // Step - 1 : Swap the root node with the last node and reduce the size of the heap
