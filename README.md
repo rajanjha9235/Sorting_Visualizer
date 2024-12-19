@@ -83,5 +83,5 @@ https://www.npmjs.com/package/react-syntax-highlighter)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
 ## Contact
-- If you have any questions or feedback, feel free to contact me at [rajanjha9235@gmail.com](mailto:your-email).
+- If you have any questions or feedback, feel free to contact me at [Gmail](mailto:rajanjha9235@gmail.com).
 - [LinkedIn](https://linkedin.com/in/rajanjha9235)
