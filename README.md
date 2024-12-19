@@ -2,6 +2,10 @@
 
 Sorting Visualizer is a web application that visualizes various sorting algorithms. It helps users understand how different sorting algorithms work by providing a visual representation of the sorting process.
 
+### Workflow Status
+
+![Build Status](https://github.com/rajanjha9235/Sorting_Visualizer/actions/workflows/deploy.yml/badge.svg)
+
 ## Features
 
 - Visualize multiple sorting algorithms:
