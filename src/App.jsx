@@ -11,13 +11,14 @@ function App() {
   const [speed , setSpeed] = useState(50);
 
   const [algortihm , setAlgorithm] = useState("bubbleSort");
-  const [sorting , setSorting] = useState(false);
-  const [completed , setCompleted] = useState(false);
+  const [sorting , setSorting] = useState(false);  // Represents sorting is going on or not
+  const [completed , setCompleted] = useState(false);  // Represents sorting completed or not
 
   useEffect(() => {
     resetArray();
   } , [arraySize]);
 
+  // Function - To Reset the Array
   const resetArray = () =>{
 
     const newArray = [];

@@ -1,5 +1,5 @@
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import { dracula, nightOwl } from "react-syntax-highlighter/dist/esm/styles/prism";
+import { nightOwl } from "react-syntax-highlighter/dist/esm/styles/prism";
 import { useState } from "react";
 import { FaCopy, FaCheck } from 'react-icons/fa';
 
