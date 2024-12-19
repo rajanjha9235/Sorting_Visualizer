@@ -53,7 +53,10 @@ Sorting Visualizer is a web application that visualizes various sorting algorith
 6. Watch the sorting algorithm in action!
 
 ## Screenshots
-Sorting Visualizer
+![image](https://github.com/user-attachments/assets/6ed22602-6f58-41c1-95cd-8a7003a9f579)
+![image](https://github.com/user-attachments/assets/e6e88443-ee68-4017-a699-5415ddaf9110)
+![image](https://github.com/user-attachments/assets/25c2ab8a-207a-44a9-9d62-587820259a10)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
