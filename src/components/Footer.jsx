@@ -3,7 +3,7 @@ function Footer() {
   return (
     <footer className="flex justify-between items-center mt-8 py-4 border-t">
       <p>&copy; {currentYear} Rajan Jha</p>
-      <div>
+      <div className="flex">
         <a href="https://github.com/rajanjha9235/Sorting_Visualizer" target="_blank" rel="noopener noreferrer">
           <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style={{ width: '24px', height: '24px' }} />
         </a>
