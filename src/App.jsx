@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { useState } from "react";
 
 import {bubbleSort , mergeSort , insertionSort , quickSort , heapSort , selectionSort} from "./algorithms";
-import {BubbleSort , MergeSort , SelectionSort , QuickSort , HeapSort , InsertionSort} from "./components";
+import {BubbleSort , MergeSort , SelectionSort , QuickSort , HeapSort , InsertionSort , Footer} from "./components";
 
 function App() {
 
@@ -189,6 +189,7 @@ function App() {
       {algortihm == "heapSort" && <HeapSort />}
       {algortihm == "selectionSort" && <SelectionSort />}
 
+      <Footer/>
     </div>
   )
 }
