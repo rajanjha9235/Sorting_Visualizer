@@ -5,9 +5,9 @@ const heapSort = async (array , setArray , speed) => {
     const arr = [...array];
     let size = arr.length;
 
-    if (isSorted(arr)){
-        return ;
-    }
+    //if (isSorted(arr)){
+        //return ;
+    //}
 
     // Heapify the array from i to size --> Upside Down
     const heapify = async (size , i) => {
