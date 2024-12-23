@@ -1,7 +1,7 @@
 function Footer() {
   const currentYear = new Date().getFullYear();
   return (
-    <footer className="flex justify-between items-center mt-8 py-4 border-t">
+    <footer className="flex justify-between items-center mt-8 py-4 border-t bg-gray-800 text-white">
       <p>&copy; {currentYear} Rajan Jha</p>
       <div className="flex">
         <a href="https://github.com/rajanjha9235/Sorting_Visualizer" target="_blank" rel="noopener noreferrer">
