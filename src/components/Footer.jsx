@@ -15,6 +15,10 @@ function Footer() {
         <a href="https://www.linkedin.com/in/rajanjha9235" target="_blank" rel="noopener noreferrer" className="ml-4">
           <img src="/Sorting_Visualizer/LinkedIn-Logo.png" alt="LinkedIn" className="w-full h-8 rounded-full" />
         </a>
+
+        <a href="https://leetcode.com/rajanjha9235" target="_blank" rel="noopener noreferrer" className="ml-4">
+          <img src="/Sorting_Visualizer/LeetCode-Logo.png" alt="LeetCode" className="w-8 h-8 rounded-full" />
+        </a>
       </div>
 
     </footer>
