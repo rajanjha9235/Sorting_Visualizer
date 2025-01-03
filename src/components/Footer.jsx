@@ -19,6 +19,10 @@ function Footer() {
         <a href="https://leetcode.com/rajanjha9235" target="_blank" rel="noopener noreferrer" className="ml-4">
           <img src="/Sorting_Visualizer/LeetCode-Logo.png" alt="LeetCode" className="w-8 h-8 rounded-full" />
         </a>
+
+        <a href="mailto:rajanjha9235@gmail.com" target="_blank" rel="noopener noreferrer" className="ml-4">
+          <img src="/Sorting_Visualizer/Gmail-Logo.png" alt="Gmail" className="w-8 h-8 rounded-full" />
+        </a>
       </div>
 
     </footer>
