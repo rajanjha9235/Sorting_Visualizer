@@ -21,7 +21,7 @@ function Footer() {
         </a>
 
         <a href="mailto:rajanjha9235@gmail.com" target="_blank" rel="noopener noreferrer" className="ml-4">
-          <img src="/Sorting_Visualizer/Gmail-Logo.png" alt="Gmail" className="w-8 h-8 rounded-full" />
+          <img src="/Sorting_Visualizer/Gmail-Logo.webp" alt="Gmail" className="w-8 h-8 rounded-full" />
         </a>
       </div>
 
